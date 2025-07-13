@@ -30,8 +30,9 @@ This repository is designed for:
 
 ##  How to Use These Resources
 
-All materials in this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You are free to share, use, and adapt these resources for non-commercial purposes, as long as proper attribution is given to T-CAIREM.
-Note: This repository is regularly updated. Ensure you're using the latest version of any resource.
+All materials in this repository are licensed under the Creative Commons Attribution-Non Commercial-ShareAlike 4.0 International License. You are free to share and use these resources for non-commercial purposes, as long as proper attribution is given to T-CAIREM. If modifications to the resources are made, please note this while giving attribution (ex: "resource adapted from T-CAIREM's...").
+
+Note: This repository is regularly updated. Ensure you're using the latest version of any resource."
 
 ##  Contact
 
